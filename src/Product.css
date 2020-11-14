@@ -1,0 +1,8 @@
+.products{
+    cursor: pointer;
+}
+.product_info{
+    /* border: 1px solid grey; */
+    width: 17rem;
+    height: 300px;
+}

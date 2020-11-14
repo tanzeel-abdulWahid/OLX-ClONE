@@ -1,0 +1,15 @@
+.headertwo{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    padding: 0 10%;
+}
+.headertwo_nav{
+    display: flex;
+    padding-left: 15px;
+    cursor: pointer;
+}
+.headertwo_navitems{
+    margin-left: 15px;
+    font-weight: 490;
+}
